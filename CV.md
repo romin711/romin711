@@ -31,7 +31,12 @@ Other Projects:
 ---
 
 ## Education
-(Currently Studying)
+
+**Current Program:**  
+Bachelor’s Degree Semester 3  
+Institution: LJ UNIVERSITY(LJIET)  
+Specialization: MATHS&COMPUTING  
+Expected Graduation: 2028
 
 ---
 
