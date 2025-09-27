@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Romin Kevadiya 👋
 
-<!--
-**romin711/romin711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me**  
+- 🎓 Student, passionate about learning technology and building projects  
+- ✅ Completed Java, currently learning Python and Frontend development  
+- 🛒 Working on a Semester 2 eCommerce project  
+- 🧠 Strong in critical thinking and effective communication  
+- 🌱 Always eager to collaborate and connect with people  
 
-Here are some ideas to get you started:
+**Projects**  
+- [LJ_SEM3](https://github.com/romin711/LJ_SEM3)  
+- [LJ-HACKATHON-2025](https://github.com/romin711/LJ-HACKATHON-2025)  
+- [sem_2_project](https://github.com/romin711/sem_2_project)  
+- [sem1_java_codes-](https://github.com/romin711/sem1_java_codes-)  
+- [hackathone_demo](https://github.com/romin711/hackathone_demo)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Connect With Me**  
+- [LinkedIn](https://in.linkedin.com/in/romin-kevadiya-6327aa320)
+
+---
