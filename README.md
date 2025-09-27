@@ -3,7 +3,7 @@
 **About Me**  
 - 🎓 Student, passionate about learning technology and building projects  
 - ✅ Completed Java, currently learning Python and Frontend development  
-- 🛒 Working on a Semester 2 eCommerce project  
+- 🛒 Worked on a Semester 2 eCommerce project  
 - 🧠 Strong in critical thinking and effective communication  
 - 🌱 Always eager to collaborate and connect with people  
 
