@@ -44,7 +44,6 @@ Built using Flask and PostgreSQL with full workflow handling.
 
 - Deepening backend architecture skills  
 - Exploring AI + backend integration  
-- Learning Flutter for cross-platform apps  
 
 ---
 
