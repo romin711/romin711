@@ -1,65 +1,71 @@
-# Romin Kevadiya
+# 👨‍💻 Romin Kevadiya
 
-Backend Developer focused on building scalable systems with Java, JDBC, and relational databases.
-
----
-
-## About
-
-I build backend systems that actually work in real-world scenarios — not just demo projects.  
-My focus is on clean architecture, strong logic, and structured workflows.
-
-- B.E. Mathematics and Computing (2024–2028)
-- Intermediate in OOP, DSA, and system design
-- Experience with authentication, workflows, and database-driven systems
+**Backend Developer** | Building scalable systems with Java, Python & PostgreSQL  
+Focused on clean architecture, strong logic, and real-world solutions.
 
 ---
 
-## Tech Stack
+## 🎯 About Me
 
-Java • Python • JavaScript  
-JDBC • REST APIs • Core Backend Development  
-PostgreSQL • MySQL  
-Git • IntelliJ • VS Code • Eclipse  
+I specialize in backend systems that work in production environments, not just in demos.
+
+- **Education**: B.E. Mathematics and Computing (2024–2028)
+- **Expertise**: OOP, Data Structures & Algorithms, System Design
+- **Passion**: Authentication systems, workflow engines, and database-driven architectures
 
 ---
 
-## Selected Work
+## 🛠️ Tech Stack
+
+**Languages:** Java • Python • JavaScript  
+**Databases:** PostgreSQL • MySQL  
+**Frameworks & Tools:** JDBC • REST APIs • Git  
+**IDEs:** IntelliJ IDEA • VS Code • Eclipse  
+
+---
+
+## 📂 Featured Projects
 
 ### E-Commerce Backend System
-Backend system with authentication and product management.  
-Designed schema, implemented JDBC operations, and structured modular components.
+Complete backend with authentication and product management.
+- Designed relational schema
+- Implemented JDBC operations
+- Modular component architecture
 
 ### Issue Tracking & Workflow System
-Role-based issue tracking with workflow transitions and status handling.  
-Focused on backend logic and scalable structure.
+Role-based issue tracking platform with workflow state management.
+- Advanced status transitions
+- Scalable backend logic
+- Clean separation of concerns
 
 ### CivicFix – Civic Issue Platform
-Multi-role system for citizens and government.  
-Built using Flask and PostgreSQL with full workflow handling.
+Multi-stakeholder platform connecting citizens with government.
+- Built with Flask & PostgreSQL
+- Complete workflow handling
+- Role-based access control
 
 ---
 
-## Current Direction
+## 📊 GitHub Activity
 
-- Deepening backend architecture skills  
-- Exploring AI + backend integration  
-
----
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romin711&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romin711&show_icons=true&theme=default&hide_border=true)
 
 ---
 
-## Contact
+## 🎓 Currently Learning
 
-LinkedIn: https://linkedin.com/in/rominkevadiya  
-Email: rominkevadiya@gmail.com  
+- Advanced backend architecture patterns
+- AI & backend integration
+- Microservices design
 
 ---
 
-## Note
+## 📞 Connect With Me
 
-I prioritize building real systems over following trends.
+- **LinkedIn:** [rominkevadiya](https://linkedin.com/in/rominkevadiya)
+- **Email:** rominkevadiya@gmail.com
+- **GitHub:** [@romin711](https://github.com/romin711)
+
+---
+
+I build systems that solve real problems. Let's connect!
