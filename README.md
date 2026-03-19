@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Romin Kevadiya</h1>
-<h3 align="center">Backend Developer focused on building scalable systems with Java</h3>
+<h3 align="center">Backend Developer focused on building scalable systems</h3>
 
 ---
 
