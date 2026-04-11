@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Romin%20Kevadiya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Python%20%7C%20Machine Learning&descAlignY=58&descSize=18&descColor=8b949e" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Romin%20Kevadiya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Python%20%7C%20MachineLearning&descAlignY=58&descSize=18&descColor=8b949e" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rominkevadiya-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rominkevadiya)
 [![Gmail](https://img.shields.io/badge/Gmail-rominkevadiya%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rominkevadiya@gmail.com)
