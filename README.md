@@ -1,71 +1,135 @@
-# 👨‍💻 Romin Kevadiya
+<div align="center">
 
-**Backend Developer** | Building scalable systems with Java, Python & PostgreSQL  
-Focused on clean architecture, strong logic, and real-world solutions.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Romin%20Kevadiya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Python%20%7C%20PostgreSQL&descAlignY=58&descSize=18&descColor=8b949e" width="100%" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rominkevadiya-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rominkevadiya)
+[![Gmail](https://img.shields.io/badge/Gmail-rominkevadiya%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rominkevadiya@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-romin711-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/romin711)
+[![Profile Views](https://komarev.com/ghpvc/?username=romin711&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS)](https://github.com/romin711)
+
+</div>
 
 ---
 
-## 🎯 About Me
+## 👨‍💻 About Me
 
-I specialize in backend systems that work in production environments, not just in demos.
+> Building backend systems that work in production — not just in demos.
 
-- **Education**: B.E. Mathematics and Computing (2024–2028)
-- **Expertise**: OOP, Data Structures & Algorithms, System Design
-- **Passion**: Authentication systems, workflow engines, and database-driven architectures
+- 🎓 **B.E. Mathematics and Computing** (2024–2028)
+- 💡 **Expertise:** OOP, Data Structures & Algorithms, System Design
+- 🔥 **Passion:** Authentication systems, workflow engines, and database-driven architectures
+- 🌱 **Currently Learning:** AI & backend integration, Microservices design, Advanced architecture patterns
+- 📍 Open to collaboration on backend and full-stack projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java • Python • JavaScript  
-**Databases:** PostgreSQL • MySQL  
-**Frameworks & Tools:** JDBC • REST APIs • Git  
-**IDEs:** IntelliJ IDEA • VS Code • Eclipse  
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frameworks & Tools**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
+
+**IDEs**
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
-## 📂 Featured Projects
+## ⭐ Starred Projects
 
-### E-Commerce Backend System
-Complete backend with authentication and product management.
-- Designed relational schema
-- Implemented JDBC operations
-- Modular component architecture
-
-### Issue Tracking & Workflow System
-Role-based issue tracking platform with workflow state management.
-- Advanced status transitions
-- Scalable backend logic
-- Clean separation of concerns
-
-### CivicFix – Civic Issue Platform
-Multi-stakeholder platform connecting citizens with government.
-- Built with Flask & PostgreSQL
-- Complete workflow handling
-- Role-based access control
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🛒 <a href="https://github.com/romin711/E-commerce">E-Commerce Backend System</a></h3>
+      <p>Complete backend with authentication and product management, built with Java and JDBC.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/romin711/E-commerce?style=flat-square&color=f1c40f" />
+      <ul>
+        <li>Relational schema design with PostgreSQL</li>
+        <li>JDBC-based data access layer</li>
+        <li>Modular, maintainable architecture</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🎬 <a href="https://github.com/romin711/ANIMATION_ENGINE">Animation Engine</a></h3>
+      <p>A custom JavaScript animation engine for building smooth, declarative UI animations.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/github/stars/romin711/ANIMATION_ENGINE?style=flat-square&color=f1c40f" />
+      <ul>
+        <li>Custom animation loop & timing control</li>
+        <li>Declarative animation API</li>
+        <li>Lightweight with zero dependencies</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💰 <a href="https://github.com/romin711/Arthasanket">Arthasanket</a></h3>
+      <p>A financial management platform for tracking income, expenses, and budgets.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/github/stars/romin711/Arthasanket?style=flat-square&color=f1c40f" />
+      <ul>
+        <li>User-friendly financial dashboard</li>
+        <li>Expense categorization & insights</li>
+        <li>Clean, responsive interface</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🌱 <a href="https://github.com/romin711/BeejVaidya-Intelligent-crop-disease-detection">BeejVaidya</a></h3>
+      <p>AI-powered crop disease detection platform helping farmers identify plant diseases early.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/romin711/BeejVaidya-Intelligent-crop-disease-detection?style=flat-square&color=f1c40f" />
+      <ul>
+        <li>Intelligent image-based disease detection</li>
+        <li>Machine learning model integration</li>
+        <li>Farmer-friendly actionable insights</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romin711&show_icons=true&theme=default&hide_border=true)
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=romin711&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romin711&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
-## 🎓 Currently Learning
+</div>
 
-- Advanced backend architecture patterns
-- AI & backend integration
-- Microservices design
+<div align="center">
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=romin711&theme=github-dark-blue&hide_border=true)
 
-## 📞 Connect With Me
-
-- **LinkedIn:** [rominkevadiya](https://linkedin.com/in/rominkevadiya)
-- **Email:** rominkevadiya@gmail.com
-- **GitHub:** [@romin711](https://github.com/romin711)
+</div>
 
 ---
 
-I build systems that solve real problems. Let's connect!
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%" />
+
+*I build systems that solve real problems. Let's connect!*
+
+</div>
